@@ -1,0 +1,7 @@
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\bin\Debug\AregloMAxMIn.exe.config
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\bin\Debug\AregloMAxMIn.exe
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\bin\Debug\AregloMAxMIn.pdb
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\obj\Debug\AregloMAxMIn.csprojAssemblyReference.cache
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\obj\Debug\AregloMAxMIn.csproj.CoreCompileInputs.cache
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\obj\Debug\AregloMAxMIn.exe
+C:\Users\Jesus.Diaz\source\repos\AregloMAxMIn\AregloMAxMIn\obj\Debug\AregloMAxMIn.pdb
